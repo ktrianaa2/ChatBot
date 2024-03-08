@@ -28,7 +28,7 @@ import java.util.Map;
 public class MainActivity extends AppCompatActivity {
 
 
-    String TokenOpenAI="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";
+    String TokenOpenAI="unu";
     String ThreadID, lastMessageID, run_ID;
     RequestQueue requestQueue;
     Button btsend;
